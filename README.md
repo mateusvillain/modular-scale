@@ -15,7 +15,6 @@ git clone https://github.com/your-username/modular-scale.git
 
 ```bash
 npm install
-Run the development server:
 ```
 
 4. Run the development server:
